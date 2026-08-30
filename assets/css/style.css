@@ -324,3 +324,21 @@ caption { text-align: left; font-size: 13px; color: var(--text-dim); padding-bot
 @media (prefers-reduced-motion: reduce) {
   html { scroll-behavior: auto; }
 }
+
+/* Обложки карточек — реальные фото */
+.cover-img {
+  width: 100%;
+  aspect-ratio: 16 / 10;
+  object-fit: cover;
+  border-radius: var(--radius);
+  display: block;
+  background: var(--bg-soft);
+}
+.lead-img {
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  object-fit: cover;
+  border-radius: var(--radius);
+  display: block;
+  background: var(--bg-soft);
+}
