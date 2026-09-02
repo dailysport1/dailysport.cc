@@ -234,6 +234,33 @@ a:hover { text-decoration: underline; }
 }
 .byline strong { color: var(--text); font-weight: 600; }
 
+/* Блок «Обновлено» — что и когда изменилось в материале */
+.updated {
+  font-size: 14px;
+  color: var(--text-dim);
+  background: var(--bg-soft);
+  border-left: 3px solid var(--accent);
+  padding: 10px 14px;
+  margin: -14px 0 26px;
+}
+.updated strong { color: var(--text); font-weight: 600; }
+
+/* Статус подтверждения факта: трансферы, будущие бои, травмы */
+.status {
+  display: inline-block;
+  font: 600 12px/1 var(--font);
+  letter-spacing: 0.04em;
+  padding: 5px 9px;
+  border-radius: 4px;
+  border: 1px solid currentColor;
+  vertical-align: middle;
+  margin: 0 0 14px;
+}
+.status--official { color: var(--football); }
+.status--media { color: #1f6fb2; }
+.status--single { color: var(--around); }
+.status--unconfirmed { color: var(--accent); }
+
 .article h2 {
   font: 700 clamp(21px, 3.2vw, 27px)/1.28 var(--font-head);
   margin: 38px 0 12px;
