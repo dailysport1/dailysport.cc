@@ -2,8 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://dailysport.cc/about/</loc>
-    <lastmod>2026-08-31</lastmod>
+    <lastmod>2026-09-02</lastmod>
     <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://dailysport.cc/football/barcelona-rayo-5-2-yamal-raphinha-dubli/</loc>
+    <lastmod>2026-09-03</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://dailysport.cc/football/chelsea-camara-monaco-sorval-transfer-dedlayn/</loc>
+    <lastmod>2026-09-03</lastmod>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://dailysport.cc/football/crystal-palace-manchester-city-cherki-haaland/</loc>
@@ -27,7 +37,7 @@
   </url>
   <url>
     <loc>https://dailysport.cc/football/</loc>
-    <lastmod>2026-09-02</lastmod>
+    <lastmod>2026-09-03</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
@@ -61,9 +71,19 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://dailysport.cc/football/zenit-otkazal-rome-luis-enrique-43-mln/</loc>
+    <lastmod>2026-09-03</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://dailysport.cc/</loc>
-    <lastmod>2026-09-02</lastmod>
+    <lastmod>2026-09-03</lastmod>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://dailysport.cc/mma/chimaev-borralho-caio-otvet-ufc-334/</loc>
+    <lastmod>2026-09-03</lastmod>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://dailysport.cc/mma/chimaev-vyzov-borralho-strickland/</loc>
@@ -71,8 +91,13 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://dailysport.cc/mma/dana-white-usman-nurmagomedov-perestupil-chertu/</loc>
+    <lastmod>2026-09-03</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://dailysport.cc/mma/</loc>
-    <lastmod>2026-09-02</lastmod>
+    <lastmod>2026-09-03</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
@@ -93,6 +118,11 @@
   <url>
     <loc>https://dailysport.cc/mma/song-yadong-nokaut-umar-nurmagomedov/</loc>
     <lastmod>2026-08-31</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://dailysport.cc/mma/song-yadong-reyting-ufc-tretiy-cejudo/</loc>
+    <lastmod>2026-09-03</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
@@ -122,7 +152,7 @@
   </url>
   <url>
     <loc>https://dailysport.cc/privacy/</loc>
-    <lastmod>2026-08-31</lastmod>
+    <lastmod>2026-09-02</lastmod>
     <priority>0.3</priority>
   </url>
 </urlset>
