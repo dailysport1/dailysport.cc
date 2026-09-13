@@ -37,7 +37,7 @@
   </url>
   <url>
     <loc>https://dailysport.cc/football/</loc>
-    <lastmod>2026-09-06</lastmod>
+    <lastmod>2026-09-14</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
@@ -48,6 +48,11 @@
   <url>
     <loc>https://dailysport.cc/football/liga-chempionov-1-tur-raspisanie-vo-skolko-8-10-sentyabrya/</loc>
     <lastmod>2026-09-06</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://dailysport.cc/football/liga-evropy-1-tur-raspisanie-vo-skolko-16-17-sentyabrya/</loc>
+    <lastmod>2026-09-09</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
@@ -71,6 +76,16 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://dailysport.cc/football/rpl-8-tur-raspisanie-vo-skolko-11-13-sentyabrya/</loc>
+    <lastmod>2026-09-09</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://dailysport.cc/football/rpl-9-tur-raspisanie-vo-skolko-16-17-sentyabrya/</loc>
+    <lastmod>2026-09-14</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://dailysport.cc/football/sbornaya-rossii-iran-kogo-vyzval-karpin-kogda-match/</loc>
     <lastmod>2026-09-06</lastmod>
     <priority>0.7</priority>
@@ -87,7 +102,7 @@
   </url>
   <url>
     <loc>https://dailysport.cc/</loc>
-    <lastmod>2026-09-07</lastmod>
+    <lastmod>2026-09-14</lastmod>
     <priority>1.0</priority>
   </url>
   <url>
@@ -117,12 +132,17 @@
   </url>
   <url>
     <loc>https://dailysport.cc/mma/</loc>
-    <lastmod>2026-09-07</lastmod>
+    <lastmod>2026-09-14</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://dailysport.cc/mma/makhachev-record-ufc-330/</loc>
     <lastmod>2026-08-31</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://dailysport.cc/mma/michael-page-ukhodit-iz-ufc-pochemu-ne-prodlili-kontrakt/</loc>
+    <lastmod>2026-09-09</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
@@ -133,6 +153,11 @@
   <url>
     <loc>https://dailysport.cc/mma/nsac-fines-cage-jumping-ufc-329/</loc>
     <lastmod>2026-08-31</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://dailysport.cc/mma/pereira-gane-revansh-kogda-vozmozhen-i-chto-meshaet/</loc>
+    <lastmod>2026-09-09</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
@@ -181,28 +206,13 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://dailysport.cc/mma/zhan-silva-posle-delgado-titulnyy-boy-ili-sterling/</loc>
+    <lastmod>2026-09-14</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://dailysport.cc/privacy/</loc>
     <lastmod>2026-09-07</lastmod>
     <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://dailysport.cc/football/rpl-8-tur-raspisanie-vo-skolko-11-13-sentyabrya/</loc>
-    <lastmod>2026-09-09</lastmod>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://dailysport.cc/football/liga-evropy-1-tur-raspisanie-vo-skolko-16-17-sentyabrya/</loc>
-    <lastmod>2026-09-09</lastmod>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://dailysport.cc/mma/michael-page-ukhodit-iz-ufc-pochemu-ne-prodlili-kontrakt/</loc>
-    <lastmod>2026-09-09</lastmod>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://dailysport.cc/mma/pereira-gane-revansh-kogda-vozmozhen-i-chto-meshaet/</loc>
-    <lastmod>2026-09-09</lastmod>
-    <priority>0.7</priority>
   </url>
 </urlset>
