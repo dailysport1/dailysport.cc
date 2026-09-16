@@ -6,6 +6,11 @@
     <priority>0.3</priority>
   </url>
   <url>
+    <loc>https://dailysport.cc/football/apl-5-tur-18-20-sentyabrya-vo-skolko-msk-almaty-gde-smotret/</loc>
+    <lastmod>2026-09-17</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://dailysport.cc/football/barcelona-rayo-5-2-yamal-raphinha-dubli/</loc>
     <lastmod>2026-09-03</lastmod>
     <priority>0.7</priority>
@@ -37,7 +42,7 @@
   </url>
   <url>
     <loc>https://dailysport.cc/football/</loc>
-    <lastmod>2026-09-14</lastmod>
+    <lastmod>2026-09-17</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
@@ -102,8 +107,13 @@
   </url>
   <url>
     <loc>https://dailysport.cc/</loc>
-    <lastmod>2026-09-14</lastmod>
+    <lastmod>2026-09-17</lastmod>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://dailysport.cc/mma/arman-tsarukyan/</loc>
+    <lastmod>2026-09-17</lastmod>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://dailysport.cc/mma/chimaev-berns-raf-13-kogda-vo-skolko-gde-smotret/</loc>
@@ -132,7 +142,7 @@
   </url>
   <url>
     <loc>https://dailysport.cc/mma/</loc>
-    <lastmod>2026-09-14</lastmod>
+    <lastmod>2026-09-17</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
@@ -188,6 +198,11 @@
   <url>
     <loc>https://dailysport.cc/mma/ufc-333-yan-dvalishvili-trilogy/</loc>
     <lastmod>2026-08-31</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://dailysport.cc/mma/ufc-fight-night-26-sentyabrya-rosas-barcelos-vo-skolko-msk-kard/</loc>
+    <lastmod>2026-09-17</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
