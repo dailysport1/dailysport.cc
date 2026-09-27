@@ -385,3 +385,26 @@ caption { text-align: left; font-size: 13px; color: var(--text-dim); padding-bot
   display: block;
   background: var(--bg-soft);
 }
+
+/* ---------- Раздел «Расписание» (генерируется scripts/gen-schedule.py) ---------- */
+
+.schedule { max-width: 900px; }
+.schedule .table-wrap { margin: 16px 0 20px; }
+.schedule table { font-size: 14px; }
+.schedule th, .schedule td { padding: 8px 10px; vertical-align: top; }
+.schedule td small { color: var(--text-dim); }
+.schedule caption { text-align: left; font: 600 13px/1.4 var(--font); color: var(--text-dim); padding: 0 0 8px; }
+.schedule-toc ul { display: flex; flex-wrap: wrap; gap: 8px 14px; margin: 0 0 8px; padding: 0; }
+.schedule-toc li { list-style: none; margin: 0; font-size: 14px; }
+.schedule-toc small { color: var(--text-dim); }
+.schedule-block { margin: 30px 0 0; padding-top: 6px; border-top: 1px solid var(--line); }
+.schedule-block h2 { margin-top: 18px; }
+.schedule-block .meta { margin: -6px 0 14px; }
+.broadcast table { font-size: 13px; }
+.broadcast th { width: 34%; font-weight: 600; white-space: normal; }
+.broadcast-note { margin: -10px 0 18px; font-size: 14px; color: var(--text-dim); }
+.status--inline { font-size: 11px; margin: 0 0 0 8px; }
+.grid--2 { grid-template-columns: 1fr; }
+@media (min-width: 700px) { .grid--2 { grid-template-columns: repeat(2, 1fr); } }
+.schedule-cards .card h2 { font: 700 19px/1.35 var(--font); margin: 0; }
+.schedule-cards .card h2 a { color: var(--text); }
