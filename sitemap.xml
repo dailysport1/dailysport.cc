@@ -47,8 +47,13 @@
   </url>
   <url>
     <loc>https://dailysport.cc/football/</loc>
-    <lastmod>2026-09-27</lastmod>
+    <lastmod>2026-09-28</lastmod>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://dailysport.cc/football/kogda-rossiyu-dopustyat-k-futbolu-fifa-uefa/</loc>
+    <lastmod>2026-09-28</lastmod>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://dailysport.cc/football/krasnodar-rostov-6-tur-rpl/</loc>
@@ -86,8 +91,13 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://dailysport.cc/football/rossiya-namibiya-3-oktyabrya-vo-skolko-gde-smotret-bilety/</loc>
+    <lastmod>2026-09-28</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://dailysport.cc/football/rossiya-nigeriya-6-oktyabrya-vo-skolko-gde-smotret-sostav/</loc>
-    <lastmod>2026-09-27</lastmod>
+    <lastmod>2026-09-28</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
@@ -103,6 +113,11 @@
   <url>
     <loc>https://dailysport.cc/football/rpl-9-tur-raspisanie-vo-skolko-16-17-sentyabrya/</loc>
     <lastmod>2026-09-14</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://dailysport.cc/football/sbornaya-rossii/</loc>
+    <lastmod>2026-09-28</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
@@ -122,7 +137,7 @@
   </url>
   <url>
     <loc>https://dailysport.cc/</loc>
-    <lastmod>2026-09-27</lastmod>
+    <lastmod>2026-09-28</lastmod>
     <priority>1.0</priority>
   </url>
   <url>
