@@ -408,3 +408,11 @@ caption { text-align: left; font-size: 13px; color: var(--text-dim); padding-bot
 @media (min-width: 700px) { .grid--2 { grid-template-columns: repeat(2, 1fr); } }
 .schedule-cards .card h2 { font: 700 19px/1.35 var(--font); margin: 0; }
 .schedule-cards .card h2 a { color: var(--text); }
+.schedule-picks ul, .schedule-results ul { padding-left: 0; }
+.schedule-picks li, .schedule-results li { list-style: none; padding: 10px 0; border-bottom: 1px solid var(--line); margin: 0; font-size: 15px; }
+.schedule-picks .tag { margin-right: 6px; }
+.schedule-results li strong { white-space: nowrap; }
+.schedule-refs { margin: 30px 0 0; padding: 16px 18px; background: var(--bg-soft); border: 1px solid var(--line); border-radius: var(--radius); }
+.schedule-refs h2 { font: 700 13px/1.3 var(--font); letter-spacing: 0.08em; text-transform: uppercase; color: var(--text-dim); margin: 0 0 10px; }
+.schedule-refs ul { display: flex; flex-wrap: wrap; gap: 8px 18px; margin: 0; padding: 0; }
+.schedule-refs li { list-style: none; margin: 0; font-size: 14px; }
