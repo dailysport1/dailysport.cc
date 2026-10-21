@@ -1,4 +1,5 @@
 User-agent: *
 Allow: /
+Disallow: /assets/promo/
 
 Sitemap: https://dailysport.cc/sitemap.xml
