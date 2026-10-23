@@ -6,7 +6,16 @@
     <description>Новости, разборы и факты о футболе и ММА с проверенными источниками.</description>
     <language>ru</language>
     <atom:link href="https://dailysport.cc/rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Thu, 22 Oct 2026 17:53:37 +0300</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 15:32:31 +0300</lastBuildDate>
+    <item>
+      <title>Мераб Двалишвили поцелует флаг России? Петр Ян выйдет на UFC 333 в шортах с триколором</title>
+      <link>https://dailysport.cc/mma/yan-shorty-flag-rossii-ufc-333/</link>
+      <guid isPermaLink="true">https://dailysport.cc/mma/yan-shorty-flag-rossii-ufc-333/</guid>
+      <pubDate>Fri, 23 Oct 2026 19:30:00 +0300</pubDate>
+      <category>mma</category>
+      <description>UFC показала шорты Петра Яна с флагом России к трилогии на UFC 333. Как борьба Двалишвили приведёт его лицо к триколору и почему это уже мем.</description>
+      <media:content url="https://dailysport.cc/assets/img/petr-yan-shorty-flag-ufc-333.jpg" medium="image"/>
+    </item>
     <item>
       <title>UFC 333: два пояса за одну ночь и десять бойцов из СНГ — весь кард, время по городам, трансляции и цена билета</title>
       <link>https://dailysport.cc/mma/ufc-333-vo-skolko-msk-kard-gde-smotret-evloev-yan/</link>
@@ -267,15 +276,6 @@
       <category>mma</category>
       <description>UFC 331 в Лос-Анджелесе: основной кард в 04:00 МСК 20 сентября, прелимы в 02:00. Титульный реванш Ван — Пантожа, Царукян — Руффи, полный кард, где смотреть.</description>
       <media:content url="https://dailysport.cc/assets/img/ortega-ufc-331.jpg" medium="image"/>
-    </item>
-    <item>
-      <title>Чимаев — Бёрнс на RAF 13: во сколько по МСК и где смотреть</title>
-      <link>https://dailysport.cc/mma/chimaev-berns-raf-13-kogda-vo-skolko-gde-smotret/</link>
-      <guid isPermaLink="true">https://dailysport.cc/mma/chimaev-berns-raf-13-kogda-vo-skolko-gde-smotret/</guid>
-      <pubDate>Mon, 07 Sep 2026 19:00:00 +0300</pubDate>
-      <category>mma</category>
-      <description>Чимаев — Бёрнс на RAF 13 в Майами 18 сентября: старт в 03:00 МСК 19 сентября, правила вольной борьбы, трансляция Fox Nation и полный кард турнира.</description>
-      <media:content url="https://dailysport.cc/assets/img/gilbert-burns-raf.jpg" medium="image"/>
     </item>
   </channel>
 </rss>
