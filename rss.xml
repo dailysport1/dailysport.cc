@@ -6,7 +6,25 @@
     <description>Новости, разборы и факты о футболе и ММА с проверенными источниками.</description>
     <language>ru</language>
     <atom:link href="https://dailysport.cc/rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Fri, 23 Oct 2026 15:32:31 +0300</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 12:06:37 +0300</lastBuildDate>
+    <item>
+      <title>RAF 14: пояс Царукяна за 78 секунд, Лоулер без единого балла и первое поражение Берроуза — что это значит для Абу-Даби 14 ноября</title>
+      <link>https://dailysport.cc/mma/raf-14/</link>
+      <guid isPermaLink="true">https://dailysport.cc/mma/raf-14/</guid>
+      <pubDate>Sun, 25 Oct 2026 16:00:00 +0300</pubDate>
+      <category>mma</category>
+      <description>RAF 14: Царукян взял пояс за 78 секунд и наступил на Дэниса, Чимаев оставил Лоулера без балла, Берроуз проиграл 23-летнему. Все 12 схваток и что ждёт 14 ноября.</description>
+      <media:content url="https://dailysport.cc/assets/img/robbie-lawler-raf-14.jpg" medium="image"/>
+    </item>
+    <item>
+      <title>UFC 333: 58 тейкдаунов Мераба, три раунда Яна и вопрос, который Уайт решал всю ночь — О</title>
+      <link>https://dailysport.cc/mma/ufc-333/</link>
+      <guid isPermaLink="true">https://dailysport.cc/mma/ufc-333/</guid>
+      <pubDate>Sun, 25 Oct 2026 14:00:00 +0300</pubDate>
+      <category>mma</category>
+      <description>UFC 333: все результаты, статистика боя Ян — Двалишвили по раундам, первое поражение Евлоева и выбор Уайта между О</description>
+      <media:content url="https://dailysport.cc/assets/img/petr-yan-ufc-333.jpg" medium="image"/>
+    </item>
     <item>
       <title>Мераб Двалишвили поцелует флаг России? Петр Ян выйдет на UFC 333 в шортах с триколором</title>
       <link>https://dailysport.cc/mma/yan-shorty-flag-rossii-ufc-333/</link>
@@ -62,12 +80,12 @@
       <media:content url="https://dailysport.cc/assets/img/arman-tsarukyan.jpg" medium="image"/>
     </item>
     <item>
-      <title>Хамзат Чимаев: рекорд 15-1, рост, вес и следующий бой — Лоулер на RAF 14 23 октября</title>
+      <title>Хамзат Чимаев: рекорд 15-1, рост, вес и следующий бой — Ковингтон 14 ноября после 11:0 над Лоулером</title>
       <link>https://dailysport.cc/mma/khamzat-chimaev/</link>
       <guid isPermaLink="true">https://dailysport.cc/mma/khamzat-chimaev/</guid>
       <pubDate>Mon, 12 Oct 2026 20:00:00 +0300</pubDate>
       <category>mma</category>
-      <description>Хамзат Чимаев: рекорд 15-1, рост, вес, кому проиграл и когда следующий бой. 23 октября — Лоулер на RAF 14, 14 ноября — Ковингтон в Абу-Даби. Все бои в UFC.</description>
+      <description>Хамзат Чимаев: рекорд 15-1, рост, вес, кому проиграл и когда следующий бой. После 11:0 над Лоулером на RAF 14 — Ковингтон 14 ноября в Абу-Даби. Все бои в UFC.</description>
       <media:content url="https://dailysport.cc/assets/img/khamzat-chimaev.jpg" medium="image"/>
     </item>
     <item>
@@ -258,24 +276,6 @@
       <category>football</category>
       <description>Все 18 матчей 1-го тура Лиги Европы 2026/27 по МСК: «Милан» — «Бенфика» 16 сентября в 22:00, «Ювентус» — НЕК 17-го, где смотреть в России и формат турнира.</description>
       <media:content url="https://dailysport.cc/assets/img/liga-evropy-2026-27.jpg" medium="image"/>
-    </item>
-    <item>
-      <title>РПЛ 11–13 сентября: расписание 8-го тура и во сколько матчи</title>
-      <link>https://dailysport.cc/football/rpl-8-tur-raspisanie-vo-skolko-11-13-sentyabrya/</link>
-      <guid isPermaLink="true">https://dailysport.cc/football/rpl-8-tur-raspisanie-vo-skolko-11-13-sentyabrya/</guid>
-      <pubDate>Wed, 09 Sep 2026 19:00:00 +0300</pubDate>
-      <category>football</category>
-      <description>Расписание 8-го тура РПЛ 11–13 сентября по МСК: «Зенит» — «Локомотив» в 16:15, «Спартак» — «Ростов» в 17:00, ЦСКА — «Рубин» и таблица после 7 туров.</description>
-      <media:content url="https://dailysport.cc/assets/img/rpl-8-tur-zenit-lokomotiv.jpg" medium="image"/>
-    </item>
-    <item>
-      <title>UFC 331: во сколько МСК Ван — Пантожа 2 и Царукян — Руффи</title>
-      <link>https://dailysport.cc/mma/ufc-331-van-pantozha-2-vo-skolko-kard-carukyan-ruffi/</link>
-      <guid isPermaLink="true">https://dailysport.cc/mma/ufc-331-van-pantozha-2-vo-skolko-kard-carukyan-ruffi/</guid>
-      <pubDate>Mon, 07 Sep 2026 20:00:00 +0300</pubDate>
-      <category>mma</category>
-      <description>UFC 331 в Лос-Анджелесе: основной кард в 04:00 МСК 20 сентября, прелимы в 02:00. Титульный реванш Ван — Пантожа, Царукян — Руффи, полный кард, где смотреть.</description>
-      <media:content url="https://dailysport.cc/assets/img/ortega-ufc-331.jpg" medium="image"/>
     </item>
   </channel>
 </rss>
