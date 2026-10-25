@@ -6,7 +6,7 @@
     <description>Новости, разборы и факты о футболе и ММА с проверенными источниками.</description>
     <language>ru</language>
     <atom:link href="https://dailysport.cc/rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sun, 25 Oct 2026 12:06:37 +0300</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 13:47:45 +0300</lastBuildDate>
     <item>
       <title>RAF 14: пояс Царукяна за 78 секунд, Лоулер без единого балла и первое поражение Берроуза — что это значит для Абу-Даби 14 ноября</title>
       <link>https://dailysport.cc/mma/raf-14/</link>
@@ -23,7 +23,7 @@
       <pubDate>Sun, 25 Oct 2026 14:00:00 +0300</pubDate>
       <category>mma</category>
       <description>UFC 333: все результаты, статистика боя Ян — Двалишвили по раундам, первое поражение Евлоева и выбор Уайта между О</description>
-      <media:content url="https://dailysport.cc/assets/img/petr-yan-ufc-333.jpg" medium="image"/>
+      <media:content url="https://dailysport.cc/assets/img/volkanovski-ufc-333-itogi.jpg" medium="image"/>
     </item>
     <item>
       <title>Мераб Двалишвили поцелует флаг России? Петр Ян выйдет на UFC 333 в шортах с триколором</title>
@@ -68,7 +68,7 @@
       <pubDate>Mon, 12 Oct 2026 21:30:00 +0300</pubDate>
       <category>football</category>
       <description>Сборная России стоит €252,8 млн по Transfermarkt. Цена всех 27 игроков, кто дороже всех, сколько дают ЦСКА и «Зенит» и почему Иран в 10 раз дешевле, но выше.</description>
-      <media:content url="https://dailysport.cc/assets/img/karpin-sbornaya-iran.jpg" medium="image"/>
+      <media:content url="https://dailysport.cc/assets/img/karpin-sbornaya-cena.jpg" medium="image"/>
     </item>
     <item>
       <title>Бойцы UFC против борцов в RAF: все 41 схватка, счёт 12:11 — и 6:11, если убрать Царукяна и Чимаева</title>
@@ -77,7 +77,7 @@
       <pubDate>Mon, 12 Oct 2026 21:00:00 +0300</pubDate>
       <category>mma</category>
       <description>Мы свели все схватки бойцов UFC в лиге RAF: 41 матч, 12:11 против борцов и 6:11 без Царукяна и Чимаева. Правила RAF, кто владеет лигой, сколько платят.</description>
-      <media:content url="https://dailysport.cc/assets/img/arman-tsarukyan.jpg" medium="image"/>
+      <media:content url="https://dailysport.cc/assets/img/colby-covington-raf.jpg" medium="image"/>
     </item>
     <item>
       <title>Хамзат Чимаев: рекорд 15-1, рост, вес и следующий бой — Ковингтон 14 ноября после 11:0 над Лоулером</title>
@@ -104,7 +104,7 @@
       <pubDate>Mon, 05 Oct 2026 18:30:00 +0300</pubDate>
       <category>around</category>
       <description>1140 билетов вместо 2850, утечка закрытой ссылки к фанатам «Краснодара», бык на газоне и победа «Зенита» 3:2. Как закончился спор и что ответили РПЛ и РФС.</description>
-      <media:content url="https://dailysport.cc/assets/img/ozon-arena-krasnodar-zenit.jpg" medium="image"/>
+      <media:content url="https://dailysport.cc/assets/img/krasnodar-stadion-bilety.jpg" medium="image"/>
     </item>
     <item>
       <title>Почему Роналду ушёл из сборной Португалии: конфликт с Жезушем, 30 дней дисквалификации и вернётся ли он в ноябре</title>
@@ -131,7 +131,7 @@
       <pubDate>Mon, 28 Sep 2026 13:00:00 +0300</pubDate>
       <category>football</category>
       <description>Когда Россию допустят до международных соревнований по футболу: решение МОК 7 июля 2026, позиция ФИФА и Инфантино, отказ Чеферина, Евро-2028 и ЧМ-2030.</description>
-      <media:content url="https://dailysport.cc/assets/img/infantino-fifa-rossiya.jpg" medium="image"/>
+      <media:content url="https://dailysport.cc/assets/img/uefa-nyon-dopusk-rossii.jpg" medium="image"/>
     </item>
     <item>
       <title>Россия — Намибия 3 октября: во сколько матч в Екатеринбурге, где смотреть, билеты и кто такие «Храбрые воины»</title>
@@ -194,7 +194,7 @@
       <pubDate>Mon, 21 Sep 2026 12:00:00 +0300</pubDate>
       <category>mma</category>
       <description>Все 12 результатов UFC 331: Ван защитил титул против Пантожи, Царукян нокаутировал Руффи локтями на 4:56, Шараф уложил Стивесона за 12 секунд. Бонусы.</description>
-      <media:content url="https://dailysport.cc/assets/img/arman-tsarukyan.jpg" medium="image"/>
+      <media:content url="https://dailysport.cc/assets/img/ruffy-ufc-331.jpg" medium="image"/>
     </item>
     <item>
       <title>«Атлетико» — «Реал» 2:1: за что удалили Хёйсена и что стало с таблицей Ла Лиги</title>
