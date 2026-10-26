@@ -2,12 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://dailysport.cc/about/</loc>
-    <lastmod>2026-10-22</lastmod>
+    <lastmod>2026-10-26</lastmod>
     <priority>0.3</priority>
   </url>
   <url>
     <loc>https://dailysport.cc/around/</loc>
-    <lastmod>2026-10-25</lastmod>
+    <lastmod>2026-10-26</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
@@ -62,7 +62,7 @@
   </url>
   <url>
     <loc>https://dailysport.cc/football/</loc>
-    <lastmod>2026-10-25</lastmod>
+    <lastmod>2026-10-26</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
@@ -167,7 +167,7 @@
   </url>
   <url>
     <loc>https://dailysport.cc/</loc>
-    <lastmod>2026-10-25</lastmod>
+    <lastmod>2026-10-26</lastmod>
     <priority>1.0</priority>
   </url>
   <url>
@@ -207,7 +207,7 @@
   </url>
   <url>
     <loc>https://dailysport.cc/mma/</loc>
-    <lastmod>2026-10-25</lastmod>
+    <lastmod>2026-10-26</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
@@ -342,22 +342,22 @@
   </url>
   <url>
     <loc>https://dailysport.cc/privacy/</loc>
-    <lastmod>2026-10-22</lastmod>
+    <lastmod>2026-10-26</lastmod>
     <priority>0.3</priority>
   </url>
   <url>
     <loc>https://dailysport.cc/schedule/football/</loc>
-    <lastmod>2026-10-25</lastmod>
+    <lastmod>2026-10-26</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://dailysport.cc/schedule/</loc>
-    <lastmod>2026-10-25</lastmod>
+    <lastmod>2026-10-26</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://dailysport.cc/schedule/mma/</loc>
-    <lastmod>2026-10-25</lastmod>
+    <lastmod>2026-10-26</lastmod>
     <priority>0.7</priority>
   </url>
 </urlset>
