@@ -6,7 +6,16 @@
     <description>Новости, разборы и факты о футболе и ММА с проверенными источниками.</description>
     <language>ru</language>
     <atom:link href="https://dailysport.cc/rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 26 Oct 2026 17:34:42 +0300</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 21:38:12 +0300</lastBuildDate>
+    <item>
+      <title>Арсен Захарян: статистика, зарплата и почему он не играет в «Реал Сосьедаде»</title>
+      <link>https://dailysport.cc/football/arsen-zakharyan/</link>
+      <guid isPermaLink="true">https://dailysport.cc/football/arsen-zakharyan/</guid>
+      <pubDate>Thu, 29 Oct 2026 12:00:00 +0300</pubDate>
+      <category>football</category>
+      <description>Арсен Захарян — «Реал Сосьедад»: статистика по сезонам, зарплата и стоимость, хронология травм на 49 матчей, гол «Депортиво» после 348 дней и сборная.</description>
+      <media:content url="https://dailysport.cc/assets/img/arsen-zakharyan-2021.jpg" medium="image"/>
+    </item>
     <item>
       <title>RAF 14: пояс Царукяна за 78 секунд, Лоулер без единого балла и первое поражение Берроуза — что это значит для Абу-Даби 14 ноября</title>
       <link>https://dailysport.cc/mma/raf-14/</link>
@@ -267,15 +276,6 @@
       <category>mma</category>
       <description>Чимаев победил Бёрнса техническим преимуществом 15:4 на RAF 13 в Майами 18 сентября. Правила вольной борьбы RAF, кард турнира и что дальше у Чимаева.</description>
       <media:content url="https://dailysport.cc/assets/img/gilbert-burns-raf.jpg" medium="image"/>
-    </item>
-    <item>
-      <title>Noche UFC 12 сентября: итог боя Силва — Дельгадо, время по Москве и кард</title>
-      <link>https://dailysport.cc/mma/noche-ufc-12-sentyabrya-vo-skolko-kard-silva-delgado/</link>
-      <guid isPermaLink="true">https://dailysport.cc/mma/noche-ufc-12-sentyabrya-vo-skolko-kard-silva-delgado/</guid>
-      <pubDate>Sun, 06 Sep 2026 18:00:00 +0300</pubDate>
-      <category>mma</category>
-      <description>Noche UFC 12 сентября: Жан Силва задушил Хосе Дельгадо в 3-м раунде (2:57). Время турнира по Москве, полный кард и кто следующий для Силвы.</description>
-      <media:content url="https://dailysport.cc/assets/img/brandon-moreno-noche-ufc.jpg" medium="image"/>
     </item>
   </channel>
 </rss>
