@@ -6,7 +6,16 @@
     <description>Новости, разборы и факты о футболе и ММА с проверенными источниками.</description>
     <language>ru</language>
     <atom:link href="https://dailysport.cc/rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Wed, 28 Oct 2026 21:38:12 +0300</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 01:28:40 +0300</lastBuildDate>
+    <item>
+      <title>Ислам Махачев: рекорд 29-1 и почему следующий бой — один из последних</title>
+      <link>https://dailysport.cc/mma/islam-makhachev/</link>
+      <guid isPermaLink="true">https://dailysport.cc/mma/islam-makhachev/</guid>
+      <pubDate>Sun, 01 Nov 2026 12:00:00 +0300</pubDate>
+      <category>mma</category>
+      <description>Ислам Махачев назвал следующий бой одним из последних: рекорд 29-1, все бои и титулы, реакция Уайта и бойцов, Пратес — Моралес, когда возвращение.</description>
+      <media:content url="https://dailysport.cc/assets/img/islam-makhachev-2025.jpg" medium="image"/>
+    </item>
     <item>
       <title>Арсен Захарян: статистика, зарплата и почему он не играет в «Реал Сосьедаде»</title>
       <link>https://dailysport.cc/football/arsen-zakharyan/</link>
@@ -267,15 +276,6 @@
       <category>mma</category>
       <description>UFC 331 в Лос-Анджелесе: основной кард в 04:00 МСК 20 сентября, прелимы в 02:00. Титульный реванш Ван — Пантожа, Царукян — Руффи, полный кард, где смотреть.</description>
       <media:content url="https://dailysport.cc/assets/img/ortega-ufc-331.jpg" medium="image"/>
-    </item>
-    <item>
-      <title>Чимаев — Бёрнс на RAF 13: итог 15:4, правила вольной борьбы RAF и кард турнира</title>
-      <link>https://dailysport.cc/mma/chimaev-berns-raf-13-kogda-vo-skolko-gde-smotret/</link>
-      <guid isPermaLink="true">https://dailysport.cc/mma/chimaev-berns-raf-13-kogda-vo-skolko-gde-smotret/</guid>
-      <pubDate>Mon, 07 Sep 2026 19:00:00 +0300</pubDate>
-      <category>mma</category>
-      <description>Чимаев победил Бёрнса техническим преимуществом 15:4 на RAF 13 в Майами 18 сентября. Правила вольной борьбы RAF, кард турнира и что дальше у Чимаева.</description>
-      <media:content url="https://dailysport.cc/assets/img/gilbert-burns-raf.jpg" medium="image"/>
     </item>
   </channel>
 </rss>
