@@ -122,7 +122,7 @@
   </url>
   <url>
     <loc>https://dailysport.cc/</loc>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-11-01</lastmod>
     <priority>1.0</priority>
   </url>
   <url>
@@ -162,8 +162,13 @@
   </url>
   <url>
     <loc>https://dailysport.cc/mma/</loc>
-    <lastmod>2026-10-26</lastmod>
+    <lastmod>2026-11-01</lastmod>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://dailysport.cc/mma/islam-makhachev/</loc>
+    <lastmod>2026-11-01</lastmod>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://dailysport.cc/mma/khamzat-chimaev/</loc>
