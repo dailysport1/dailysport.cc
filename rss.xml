@@ -6,7 +6,25 @@
     <description>Новости, разборы и факты о футболе и ММА с проверенными источниками.</description>
     <language>ru</language>
     <atom:link href="https://dailysport.cc/rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sun, 01 Nov 2026 01:28:40 +0300</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 14:19:38 +0300</lastBuildDate>
+    <item>
+      <title>Александр Головин: статистика, зарплата в «Монако» и почему он не ушёл в «Зенит»</title>
+      <link>https://dailysport.cc/football/aleksandr-golovin/</link>
+      <guid isPermaLink="true">https://dailysport.cc/football/aleksandr-golovin/</guid>
+      <pubDate>Tue, 03 Nov 2026 13:00:00 +0300</pubDate>
+      <category>football</category>
+      <description>Головин в «Монако»: статистика по сезонам, зарплата €3,6–3,9 млн, контракт до 2029, травмы, 11 голов за сборную и почему летом сорвался переход в «Зенит».</description>
+      <media:content url="https://dailysport.cc/assets/img/aleksandr-golovin.jpg" medium="image"/>
+    </item>
+    <item>
+      <title>Умар Нурмагомедов: рекорд 20-2, все бои и схватка с Фейбером 14 ноября</title>
+      <link>https://dailysport.cc/mma/umar-nurmagomedov/</link>
+      <guid isPermaLink="true">https://dailysport.cc/mma/umar-nurmagomedov/</guid>
+      <pubDate>Tue, 03 Nov 2026 12:00:00 +0300</pubDate>
+      <category>mma</category>
+      <description>Рекорд Умара Нурмагомедова 20-2: все 22 боя, кому проиграл, рост и вес, место в рейтинге UFC и схватка с Юрайей Фейбером на RAF 14 ноября в Абу-Даби.</description>
+      <media:content url="https://dailysport.cc/assets/img/umar-nurmagomedov.jpg" medium="image"/>
+    </item>
     <item>
       <title>Ислам Махачев: рекорд 29-1 и почему следующий бой — один из последних</title>
       <link>https://dailysport.cc/mma/islam-makhachev/</link>
@@ -161,7 +179,7 @@
       <media:content url="https://dailysport.cc/assets/img/rossiya-namibiya-ekaterinburg.jpg" medium="image"/>
     </item>
     <item>
-      <title>Сборная России по футболу: рейтинг ФИФА, состав, стоимость, результаты и 3:3 с Нигерией</title>
+      <title>Сборная России по футболу: рейтинг ФИФА, состав и матчи с Узбекистаном и Венесуэлой в ноябре</title>
       <link>https://dailysport.cc/football/sbornaya-rossii/</link>
       <guid isPermaLink="true">https://dailysport.cc/football/sbornaya-rossii/</guid>
       <pubDate>Mon, 28 Sep 2026 12:00:00 +0300</pubDate>
@@ -258,24 +276,6 @@
       <category>mma</category>
       <description>Алекс Перейра объявил о возвращении и требует реванш с Сирилом Ганом. Почему UFC молчит, при чём здесь Аспиналл и какие даты остались в 2026 году.</description>
       <media:content url="https://dailysport.cc/assets/img/alex-pereira-gane.jpg" medium="image"/>
-    </item>
-    <item>
-      <title>Пейдж уходит из UFC: почему не продлили контракт, что дальше</title>
-      <link>https://dailysport.cc/mma/michael-page-ukhodit-iz-ufc-pochemu-ne-prodlili-kontrakt/</link>
-      <guid isPermaLink="true">https://dailysport.cc/mma/michael-page-ukhodit-iz-ufc-pochemu-ne-prodlili-kontrakt/</guid>
-      <pubDate>Wed, 09 Sep 2026 20:00:00 +0300</pubDate>
-      <category>mma</category>
-      <description>Майкл «Venom» Пейдж покидает UFC после победы над Рузибоевым: Дана Уайт подтвердил, что контракт не продлят. Рекорд 5-1 и почему этого не хватило.</description>
-      <media:content url="https://dailysport.cc/assets/img/michael-page-ufc.jpg" medium="image"/>
-    </item>
-    <item>
-      <title>UFC 331: во сколько МСК Ван — Пантожа 2 и Царукян — Руффи</title>
-      <link>https://dailysport.cc/mma/ufc-331-van-pantozha-2-vo-skolko-kard-carukyan-ruffi/</link>
-      <guid isPermaLink="true">https://dailysport.cc/mma/ufc-331-van-pantozha-2-vo-skolko-kard-carukyan-ruffi/</guid>
-      <pubDate>Mon, 07 Sep 2026 20:00:00 +0300</pubDate>
-      <category>mma</category>
-      <description>UFC 331 в Лос-Анджелесе: основной кард в 04:00 МСК 20 сентября, прелимы в 02:00. Титульный реванш Ван — Пантожа, Царукян — Руффи, полный кард, где смотреть.</description>
-      <media:content url="https://dailysport.cc/assets/img/ortega-ufc-331.jpg" medium="image"/>
     </item>
   </channel>
 </rss>
