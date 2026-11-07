@@ -127,7 +127,7 @@
   </url>
   <url>
     <loc>https://dailysport.cc/</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-08</lastmod>
     <priority>1.0</priority>
   </url>
   <url>
@@ -167,7 +167,7 @@
   </url>
   <url>
     <loc>https://dailysport.cc/mma/</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-08</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
@@ -233,6 +233,11 @@
   <url>
     <loc>https://dailysport.cc/mma/song-yadong-reyting-ufc-tretiy-cejudo/</loc>
     <lastmod>2026-09-03</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://dailysport.cc/mma/tramp-uait-press-sekretar/</loc>
+    <lastmod>2026-11-07</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
