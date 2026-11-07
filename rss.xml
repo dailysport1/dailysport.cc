@@ -6,7 +6,16 @@
     <description>Новости, разборы и факты о футболе и ММА с проверенными источниками.</description>
     <language>ru</language>
     <atom:link href="https://dailysport.cc/rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 03 Nov 2026 14:19:38 +0300</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 00:49:08 +0300</lastBuildDate>
+    <item>
+      <title>Трамп зовёт Уайта в пресс-секретари: в команде Хабиб и Махачев</title>
+      <link>https://dailysport.cc/mma/tramp-uait-press-sekretar/</link>
+      <guid isPermaLink="true">https://dailysport.cc/mma/tramp-uait-press-sekretar/</guid>
+      <pubDate>Sat, 07 Nov 2026 21:00:00 +0300</pubDate>
+      <category>mma</category>
+      <description>Трамп предложил Дане Уайту пост пресс-секретаря и попросил взять помощниками Хабиба, Махачева, Гэйджи, Кормье, Нуньес и Харрисон. Текст поста, хронология, анализ.</description>
+      <media:content url="https://dailysport.cc/assets/img/trump-white-house-ufc.jpg" medium="image"/>
+    </item>
     <item>
       <title>Александр Головин: статистика, зарплата в «Монако» и почему он не ушёл в «Зенит»</title>
       <link>https://dailysport.cc/football/aleksandr-golovin/</link>
@@ -267,15 +276,6 @@
       <category>mma</category>
       <description>Силва задушил Дельгадо в 3-м раунде Noche UFC и требует победителя Волкановски — Евлоев. Стерлинг предлагает бой за статус претендента на UFC 334.</description>
       <media:content url="https://dailysport.cc/assets/img/sterling-silva-ufc.jpg" medium="image"/>
-    </item>
-    <item>
-      <title>Перейра — Ган 2: когда возможен реванш и что мешает</title>
-      <link>https://dailysport.cc/mma/pereira-gane-revansh-kogda-vozmozhen-i-chto-meshaet/</link>
-      <guid isPermaLink="true">https://dailysport.cc/mma/pereira-gane-revansh-kogda-vozmozhen-i-chto-meshaet/</guid>
-      <pubDate>Wed, 09 Sep 2026 20:30:00 +0300</pubDate>
-      <category>mma</category>
-      <description>Алекс Перейра объявил о возвращении и требует реванш с Сирилом Ганом. Почему UFC молчит, при чём здесь Аспиналл и какие даты остались в 2026 году.</description>
-      <media:content url="https://dailysport.cc/assets/img/alex-pereira-gane.jpg" medium="image"/>
     </item>
   </channel>
 </rss>
