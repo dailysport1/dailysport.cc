@@ -31,11 +31,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://dailysport.cc/football/atletiko-real-2-1-derbi-udalenie-heysena-tablitsa-la-ligi/</loc>
-    <lastmod>2026-09-21</lastmod>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://dailysport.cc/football/barcelona-rayo-5-2-yamal-raphinha-dubli/</loc>
     <lastmod>2026-09-03</lastmod>
     <priority>0.7</priority>
@@ -46,23 +41,13 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://dailysport.cc/football/enzo-fernandez-man-city-125-deadline-day/</loc>
-    <lastmod>2026-09-02</lastmod>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://dailysport.cc/football/fakel-zenit-0-1-penalti-soboleva/</loc>
-    <lastmod>2026-09-02</lastmod>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://dailysport.cc/football/gabriel-jesus-barcelona-transfer/</loc>
     <lastmod>2026-09-02</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://dailysport.cc/football/</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-10</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
@@ -73,11 +58,6 @@
   <url>
     <loc>https://dailysport.cc/football/messi-zavershil-kareru-v-sbornoy-argentiny/</loc>
     <lastmod>2026-08-31</lastmod>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://dailysport.cc/football/mudrik-tottenham-arenda-chelsea/</loc>
-    <lastmod>2026-09-02</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
@@ -102,7 +82,7 @@
   </url>
   <url>
     <loc>https://dailysport.cc/football/sbornaya-rossii/</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-10</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
@@ -116,23 +96,23 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://dailysport.cc/football/spartak/</loc>
+    <lastmod>2026-11-10</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://dailysport.cc/football/zenit/</loc>
     <lastmod>2026-10-22</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://dailysport.cc/football/zenit-otkazal-rome-luis-enrique-43-mln/</loc>
-    <lastmod>2026-09-03</lastmod>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://dailysport.cc/</loc>
-    <lastmod>2026-11-08</lastmod>
+    <lastmod>2026-11-10</lastmod>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://dailysport.cc/mma/arman-tsarukyan/</loc>
-    <lastmod>2026-10-26</lastmod>
+    <lastmod>2026-11-10</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
@@ -167,7 +147,7 @@
   </url>
   <url>
     <loc>https://dailysport.cc/mma/</loc>
-    <lastmod>2026-11-08</lastmod>
+    <lastmod>2026-11-10</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
@@ -177,17 +157,12 @@
   </url>
   <url>
     <loc>https://dailysport.cc/mma/khamzat-chimaev/</loc>
-    <lastmod>2026-10-25</lastmod>
+    <lastmod>2026-11-10</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://dailysport.cc/mma/khamzat-chimaev-vse-boi-statistika/</loc>
     <lastmod>2026-10-05</lastmod>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://dailysport.cc/mma/makhachev-record-ufc-330/</loc>
-    <lastmod>2026-08-31</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
@@ -213,6 +188,11 @@
   <url>
     <loc>https://dailysport.cc/mma/pereira-gane-revansh-kogda-vozmozhen-i-chto-meshaet/</loc>
     <lastmod>2026-09-09</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://dailysport.cc/mma/petr-yan/</loc>
+    <lastmod>2026-11-10</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
@@ -246,11 +226,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://dailysport.cc/mma/ufc-331-van-pantozha-2-vo-skolko-kard-carukyan-ruffi/</loc>
-    <lastmod>2026-09-21</lastmod>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://dailysport.cc/mma/ufc-332-bez-glavnogo-boya/</loc>
     <lastmod>2026-09-02</lastmod>
     <priority>0.7</priority>
@@ -266,18 +241,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://dailysport.cc/mma/ufc-333-vo-skolko-msk-kard-gde-smotret-evloev-yan/</loc>
-    <lastmod>2026-10-25</lastmod>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://dailysport.cc/mma/ufc-fight-night-26-sentyabrya-rosas-barcelos-vo-skolko-msk-kard/</loc>
     <lastmod>2026-10-26</lastmod>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://dailysport.cc/mma/ufc-paris-andrusca-wood-zamena/</loc>
-    <lastmod>2026-09-06</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
@@ -307,17 +272,17 @@
   </url>
   <url>
     <loc>https://dailysport.cc/schedule/football/</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-10</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://dailysport.cc/schedule/</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-10</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://dailysport.cc/schedule/mma/</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-10</lastmod>
     <priority>0.7</priority>
   </url>
 </urlset>
