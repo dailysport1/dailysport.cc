@@ -6,14 +6,32 @@
     <description>Новости, разборы и факты о футболе и ММА с проверенными источниками.</description>
     <language>ru</language>
     <atom:link href="https://dailysport.cc/rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sun, 08 Nov 2026 00:49:08 +0300</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 12:58:45 +0300</lastBuildDate>
+    <item>
+      <title>«Спартак» Москва: сколько раз чемпион, состав 2026/27 и почему команда третья, а не первая</title>
+      <link>https://dailysport.cc/football/spartak/</link>
+      <guid isPermaLink="true">https://dailysport.cc/football/spartak/</guid>
+      <pubDate>Tue, 10 Nov 2026 13:00:00 +0300</pubDate>
+      <category>football</category>
+      <description>«Спартак» — 22 чемпионства (12 СССР, 10 России), последнее в 2017-м. Таблица РПЛ, все матчи 2026/27, состав, тренер Карседо, рекордсмены и ближайшие игры.</description>
+      <media:content url="https://dailysport.cc/assets/img/spartak-lukoil-arena.jpg" medium="image"/>
+    </item>
+    <item>
+      <title>Пётр Ян: рекорд 21-5, все бои в UFC и кто следующий после трилогии с Мерабом</title>
+      <link>https://dailysport.cc/mma/petr-yan/</link>
+      <guid isPermaLink="true">https://dailysport.cc/mma/petr-yan/</guid>
+      <pubDate>Tue, 10 Nov 2026 12:00:00 +0300</pubDate>
+      <category>mma</category>
+      <description>Рекорд Петра Яна 21-5: все 17 боёв в UFC, кому проиграл, рост и вес, статистика, гонорары и кто следующий соперник чемпиона после UFC 333.</description>
+      <media:content url="https://dailysport.cc/assets/img/petr-yan-2026.jpg" medium="image"/>
+    </item>
     <item>
       <title>Трамп зовёт Уайта в пресс-секретари: в команде Хабиб и Махачев</title>
       <link>https://dailysport.cc/mma/tramp-uait-press-sekretar/</link>
       <guid isPermaLink="true">https://dailysport.cc/mma/tramp-uait-press-sekretar/</guid>
       <pubDate>Sat, 07 Nov 2026 21:00:00 +0300</pubDate>
       <category>mma</category>
-      <description>Трамп предложил Дане Уайту пост пресс-секретаря и попросил взять помощниками Хабиба, Махачева, Гэйджи, Кормье, Нуньес и Харрисон. Текст поста, хронология, анализ.</description>
+      <description>Трамп предложил Дане Уайту пост пресс-секретаря и попросил взять помощниками Хабиба, Махачева, Гэйджи, Кормье, Нуньес и Харрисон. Текст поста и хронология.</description>
       <media:content url="https://dailysport.cc/assets/img/trump-white-house-ufc.jpg" medium="image"/>
     </item>
     <item>
@@ -80,15 +98,6 @@
       <media:content url="https://dailysport.cc/assets/img/petr-yan-shorty-flag-ufc-333.jpg" medium="image"/>
     </item>
     <item>
-      <title>UFC 333: два пояса за одну ночь и десять бойцов из СНГ — весь кард, время по городам, трансляции и цена билета</title>
-      <link>https://dailysport.cc/mma/ufc-333-vo-skolko-msk-kard-gde-smotret-evloev-yan/</link>
-      <guid isPermaLink="true">https://dailysport.cc/mma/ufc-333-vo-skolko-msk-kard-gde-smotret-evloev-yan/</guid>
-      <pubDate>Tue, 20 Oct 2026 19:00:00 +0300</pubDate>
-      <category>mma</category>
-      <description>UFC 333 24 октября: прелимы в 17:00 и 19:00, основной кард в 21:00 МСК. Все 14 боёв, время по городам СНГ, трансляции по странам и цены билетов.</description>
-      <media:content url="https://dailysport.cc/assets/img/petr-yan-ufc-333.jpg" medium="image"/>
-    </item>
-    <item>
       <title>Все бои Мовсара Евлоева в UFC: 10 решений из 10, 160 минут в клетке и первое поражение — от Волкановски</title>
       <link>https://dailysport.cc/mma/movsar-evloev-vse-boi-ufc-statistika/</link>
       <guid isPermaLink="true">https://dailysport.cc/mma/movsar-evloev-vse-boi-ufc-statistika/</guid>
@@ -125,12 +134,12 @@
       <media:content url="https://dailysport.cc/assets/img/colby-covington-raf.jpg" medium="image"/>
     </item>
     <item>
-      <title>Хамзат Чимаев: рекорд 15-1, рост, вес и следующий бой — Ковингтон 14 ноября после 11:0 над Лоулером</title>
+      <title>Хамзат Чимаев: рекорд 15-1, рост, вес и следующий бой — Уайдман 14 ноября вместо Ковингтона</title>
       <link>https://dailysport.cc/mma/khamzat-chimaev/</link>
       <guid isPermaLink="true">https://dailysport.cc/mma/khamzat-chimaev/</guid>
       <pubDate>Mon, 12 Oct 2026 20:00:00 +0300</pubDate>
       <category>mma</category>
-      <description>Хамзат Чимаев: рекорд 15-1, рост, вес, кому проиграл и когда следующий бой. После 11:0 над Лоулером на RAF 14 — Ковингтон 14 ноября в Абу-Даби. Все бои в UFC.</description>
+      <description>Хамзат Чимаев: рекорд 15-1, рост, вес, кому проиграл и когда следующий бой. 14 ноября в Абу-Даби борется с Уайдманом: Ковингтон снялся. Все бои в UFC.</description>
       <media:content url="https://dailysport.cc/assets/img/khamzat-chimaev.jpg" medium="image"/>
     </item>
     <item>
@@ -188,12 +197,12 @@
       <media:content url="https://dailysport.cc/assets/img/rossiya-namibiya-ekaterinburg.jpg" medium="image"/>
     </item>
     <item>
-      <title>Сборная России по футболу: рейтинг ФИФА, состав и матчи с Узбекистаном и Венесуэлой в ноябре</title>
+      <title>Сборная России по футболу: рейтинг ФИФА, состав на ноябрь и матчи с Узбекистаном 12-го и Венесуэлой 17-го</title>
       <link>https://dailysport.cc/football/sbornaya-rossii/</link>
       <guid isPermaLink="true">https://dailysport.cc/football/sbornaya-rossii/</guid>
       <pubDate>Mon, 28 Sep 2026 12:00:00 +0300</pubDate>
       <category>football</category>
-      <description>Сборная России по футболу: 35-е место в рейтинге ФИФА, состав Карпина, все результаты 2025–2026 и ближайшие матчи в ноябре. Когда допустят к турнирам.</description>
+      <description>Сборная России: 35-е место в рейтинге ФИФА, состав Карпина на ноябрь, во сколько Узбекистан — Россия 12.11 и Россия — Венесуэла 17.11, где смотреть.</description>
       <media:content url="https://dailysport.cc/assets/img/sbornaya-rossii-golovin.jpg" medium="image"/>
     </item>
     <item>
@@ -242,21 +251,12 @@
       <media:content url="https://dailysport.cc/assets/img/ruffy-ufc-331.jpg" medium="image"/>
     </item>
     <item>
-      <title>«Атлетико» — «Реал» 2:1: за что удалили Хёйсена и что стало с таблицей Ла Лиги</title>
-      <link>https://dailysport.cc/football/atletiko-real-2-1-derbi-udalenie-heysena-tablitsa-la-ligi/</link>
-      <guid isPermaLink="true">https://dailysport.cc/football/atletiko-real-2-1-derbi-udalenie-heysena-tablitsa-la-ligi/</guid>
-      <pubDate>Mon, 21 Sep 2026 11:00:00 +0300</pubDate>
-      <category>football</category>
-      <description>Дерби Мадрида 20 сентября: удаление Хёйсена на 52-й, пенальти Гримальдо, гол Дэвида, первое поражение Моуринью в дерби. Таблица Ла Лиги после 7 туров.</description>
-      <media:content url="https://dailysport.cc/assets/img/jonathan-david-atletico.jpg" medium="image"/>
-    </item>
-    <item>
-      <title>Арман Царукян: рекорд, следующий бой и почему он ещё не дрался за титул</title>
+      <title>Арман Царукян: рекорд 24-3, рост и вес, схватка с Нейманом Грейси 14 ноября и когда титульный бой</title>
       <link>https://dailysport.cc/mma/arman-tsarukyan/</link>
       <guid isPermaLink="true">https://dailysport.cc/mma/arman-tsarukyan/</guid>
       <pubDate>Thu, 17 Sep 2026 14:00:00 +0300</pubDate>
       <category>mma</category>
-      <description>Арман Царукян: 30 лет, рост 170 см, рекорд 24-3, #2 лёгкого веса UFC. Нокаут Руффи на UFC 331, пояс RAF, все бои таблицей, гонорары и следующий бой.</description>
+      <description>Арман Царукян: 30 лет, рост 170 см, рекорд 24-3. 14 ноября борется с Нейманом Грейси на RAF Abu Dhabi в 19:00 МСК, UFC обещает ответ по титулу в конце ноября.</description>
       <media:content url="https://dailysport.cc/assets/img/arman-tsarukyan.jpg" medium="image"/>
     </item>
     <item>
