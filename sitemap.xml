@@ -107,7 +107,7 @@
   </url>
   <url>
     <loc>https://dailysport.cc/</loc>
-    <lastmod>2026-11-10</lastmod>
+    <lastmod>2026-11-12</lastmod>
     <priority>1.0</priority>
   </url>
   <url>
@@ -147,7 +147,7 @@
   </url>
   <url>
     <loc>https://dailysport.cc/mma/</loc>
-    <lastmod>2026-11-10</lastmod>
+    <lastmod>2026-11-12</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
@@ -163,6 +163,11 @@
   <url>
     <loc>https://dailysport.cc/mma/khamzat-chimaev-vse-boi-statistika/</loc>
     <lastmod>2026-10-05</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://dailysport.cc/mma/merab-usman-draka-abu-dabi/</loc>
+    <lastmod>2026-11-12</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
