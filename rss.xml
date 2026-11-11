@@ -6,7 +6,16 @@
     <description>Новости, разборы и факты о футболе и ММА с проверенными источниками.</description>
     <language>ru</language>
     <atom:link href="https://dailysport.cc/rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Wed, 11 Nov 2026 21:11:33 +0300</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 23:25:53 +0300</lastBuildDate>
+    <item>
+      <title>Нурмагомедовы после драки с Мерабом: задержание в Абу-Даби, молчание Хабиба и три сценария</title>
+      <link>https://dailysport.cc/around/nurmagomedovy-posle-draki-s-merabom/</link>
+      <guid isPermaLink="true">https://dailysport.cc/around/nurmagomedovy-posle-draki-s-merabom/</guid>
+      <pubDate>Thu, 12 Nov 2026 00:30:00 +0300</pubDate>
+      <category>around</category>
+      <description>Усмана и участников нападения на Мераба задержали в Абу-Даби для опроса. Что грозит по законам ОАЭ, как скандал бьет по репутации Хабиба и Махачева и почему бездействие властей вызовет вопросы.</description>
+      <media:content url="https://dailysport.cc/assets/img/khabib-2024.jpg" medium="image"/>
+    </item>
     <item>
       <title>Избиение Мераба в Абу-Даби: чем грозит Нурмагомедовым драка в отеле</title>
       <link>https://dailysport.cc/mma/merab-usman-draka-abu-dabi/</link>
@@ -14,7 +23,7 @@
       <pubDate>Thu, 12 Nov 2026 00:30:00 +0300</pubDate>
       <category>mma</category>
       <description>Усман Нурмагомедов с группой напал на Мераба Двалишвили в отеле перед RAF Abu Dhabi. Что это значит для контракта Усмана с UFC, схватки Умара с Фейбером и турнира 14 ноября.</description>
-      <media:content url="https://dailysport.cc/assets/img/usman-nurmagomedov-attack.jpg" medium="image"/>
+      <media:content url="https://dailysport.cc/assets/img/usman-nurmagomedov-attack-lead.jpg" medium="image"/>
     </item>
     <item>
       <title>«Спартак» Москва: сколько раз чемпион, состав 2026/27 и почему команда третья, а не первая</title>
@@ -267,15 +276,6 @@
       <category>mma</category>
       <description>Арман Царукян: 30 лет, рост 170 см, рекорд 24-3. 14 ноября борется с Нейманом Грейси на RAF Abu Dhabi в 19:00 МСК, UFC обещает ответ по титулу в конце ноября.</description>
       <media:content url="https://dailysport.cc/assets/img/arman-tsarukyan.jpg" medium="image"/>
-    </item>
-    <item>
-      <title>UFC Fight Night 26 сентября: итог Росас — Барселос, финал TUF 34 и время по МСК и Алматы</title>
-      <link>https://dailysport.cc/mma/ufc-fight-night-26-sentyabrya-rosas-barcelos-vo-skolko-msk-kard/</link>
-      <guid isPermaLink="true">https://dailysport.cc/mma/ufc-fight-night-26-sentyabrya-rosas-barcelos-vo-skolko-msk-kard/</guid>
-      <pubDate>Thu, 17 Sep 2026 13:00:00 +0300</pubDate>
-      <category>mma</category>
-      <description>UFC Fight Night 26 сентября: Росас-мл. остановил Барселоса в 5-м раунде (1:38), Акылбек уулу победил Османлы дисквалификацией. Кард и время по МСК.</description>
-      <media:content url="https://dailysport.cc/assets/img/raul-rosas-jr-ufc.jpg" medium="image"/>
     </item>
   </channel>
 </rss>
