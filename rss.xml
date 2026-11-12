@@ -6,14 +6,23 @@
     <description>Новости, разборы и факты о футболе и ММА с проверенными источниками.</description>
     <language>ru</language>
     <atom:link href="https://dailysport.cc/rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Wed, 11 Nov 2026 23:25:53 +0300</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 22:55:01 +0300</lastBuildDate>
+    <item>
+      <title>Мераб и Усман под стражей: заявление полиции Абу-Даби и все реакции бойцов</title>
+      <link>https://dailysport.cc/around/merab-usman-arest-reaktsiya/</link>
+      <guid isPermaLink="true">https://dailysport.cc/around/merab-usman-arest-reaktsiya/</guid>
+      <pubDate>Fri, 13 Nov 2026 00:15:00 +0300</pubDate>
+      <category>around</category>
+      <description>Полиция Абу-Даби официально подтвердила 10 арестов: восемь участников драки и двое снимавших видео. Мераб и Усман под стражей уже сутки. Что сказали Махачев, Топурия, Фейбер, О</description>
+      <media:content url="https://dailysport.cc/assets/img/ilia-topuria-2026.jpg" medium="image"/>
+    </item>
     <item>
       <title>Нурмагомедовы после драки с Мерабом: задержание в Абу-Даби, молчание Хабиба и три сценария</title>
       <link>https://dailysport.cc/around/nurmagomedovy-posle-draki-s-merabom/</link>
       <guid isPermaLink="true">https://dailysport.cc/around/nurmagomedovy-posle-draki-s-merabom/</guid>
       <pubDate>Thu, 12 Nov 2026 00:30:00 +0300</pubDate>
       <category>around</category>
-      <description>Усмана и участников нападения на Мераба задержали в Абу-Даби для опроса. Что грозит по законам ОАЭ, как скандал бьет по репутации Хабиба и Махачева и почему бездействие властей вызовет вопросы.</description>
+      <description>Участников нападения на Мераба задержали в Абу-Даби. Что грозит по законам ОАЭ, как скандал бьет по репутации Хабиба и Махачева и чего ждать дальше.</description>
       <media:content url="https://dailysport.cc/assets/img/khabib-2024.jpg" medium="image"/>
     </item>
     <item>
@@ -267,15 +276,6 @@
       <category>mma</category>
       <description>Все 12 результатов UFC 331: Ван защитил титул против Пантожи, Царукян нокаутировал Руффи локтями на 4:56, Шараф уложил Стивесона за 12 секунд. Бонусы.</description>
       <media:content url="https://dailysport.cc/assets/img/ruffy-ufc-331.jpg" medium="image"/>
-    </item>
-    <item>
-      <title>Арман Царукян: рекорд 24-3, рост и вес, схватка с Нейманом Грейси 14 ноября и когда титульный бой</title>
-      <link>https://dailysport.cc/mma/arman-tsarukyan/</link>
-      <guid isPermaLink="true">https://dailysport.cc/mma/arman-tsarukyan/</guid>
-      <pubDate>Thu, 17 Sep 2026 14:00:00 +0300</pubDate>
-      <category>mma</category>
-      <description>Арман Царукян: 30 лет, рост 170 см, рекорд 24-3. 14 ноября борется с Нейманом Грейси на RAF Abu Dhabi в 19:00 МСК, UFC обещает ответ по титулу в конце ноября.</description>
-      <media:content url="https://dailysport.cc/assets/img/arman-tsarukyan.jpg" medium="image"/>
     </item>
   </channel>
 </rss>
