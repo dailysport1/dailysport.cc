@@ -232,7 +232,7 @@ a:hover { text-decoration: underline; }
   border-bottom: 1px solid var(--line);
   margin-bottom: 26px;
 }
-.byline strong { color: var(--text); font-weight: 600; }
+.byline strong, .byline a[rel="author"] { color: var(--text); font-weight: 600; }
 
 /* Блок «Обновлено» — что и когда изменилось в материале */
 .updated {
