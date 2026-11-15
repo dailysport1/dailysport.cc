@@ -6,7 +6,17 @@
     <description>Новости, разборы и факты о футболе и ММА с проверенными источниками.</description>
     <language>ru</language>
     <atom:link href="https://dailysport.cc/rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sun, 15 Nov 2026 14:29:05 +0300</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 14:57:56 +0300</lastBuildDate>
+    <item>
+      <title>Мераб Двалишвили: рекорд 21-6, все бои в UFC и что дальше после Абу-Даби</title>
+      <link>https://dailysport.cc/mma/merab-dvalishvili/</link>
+      <guid isPermaLink="true">https://dailysport.cc/mma/merab-dvalishvili/</guid>
+      <pubDate>Sun, 15 Nov 2026 15:00:00 +0300</pubDate>
+      <category>mma</category>
+      <dc:creator>Юрий Лютиков</dc:creator>
+      <description>Рекорд Мераба Двалишвили 21-6: все 18 боёв в UFC, кому проиграл, рост и возраст, гонорары, схватки в RAF и победа над Мораесом после драки с Усманом.</description>
+      <media:content url="https://dailysport.cc/assets/img/og/merab-dvalishvili-ufc.jpg" medium="image"/>
+    </item>
     <item>
       <title>Мераб и Усман под стражей: заявление полиции Абу-Даби и все реакции бойцов</title>
       <link>https://dailysport.cc/around/merab-usman-arest-reaktsiya/</link>
@@ -296,16 +306,6 @@
       <dc:creator>Юрий Лютиков</dc:creator>
       <description>UFC 332: Наталия Силва взяла вакантный пояс решением у Ван Цун (48-47, 48-47, 49-46), Копылов нокаутировал Готье, Тэлботт — Фигередо. Кард и время по МСК.</description>
       <media:content url="https://dailysport.cc/assets/img/og/figueiredo-ufc-332.jpg" medium="image"/>
-    </item>
-    <item>
-      <title>UFC 331: результаты всех боёв, бонусы и получит ли Царукян титульный бой</title>
-      <link>https://dailysport.cc/mma/ufc-331-rezultaty-vseh-boev-bonusy-carukyan-nokaut-ruffi/</link>
-      <guid isPermaLink="true">https://dailysport.cc/mma/ufc-331-rezultaty-vseh-boev-bonusy-carukyan-nokaut-ruffi/</guid>
-      <pubDate>Mon, 21 Sep 2026 12:00:00 +0300</pubDate>
-      <category>mma</category>
-      <dc:creator>Юрий Лютиков</dc:creator>
-      <description>Все 12 результатов UFC 331: Ван защитил титул против Пантожи, Царукян нокаутировал Руффи локтями на 4:56, Шараф уложил Стивесона за 12 секунд. Бонусы.</description>
-      <media:content url="https://dailysport.cc/assets/img/og/ruffy-ufc-331.jpg" medium="image"/>
     </item>
   </channel>
 </rss>
