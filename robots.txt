@@ -3,3 +3,4 @@ Allow: /
 Disallow: /assets/promo/
 
 Sitemap: https://dailysport.cc/sitemap.xml
+Sitemap: https://dailysport.cc/sitemap_index.xml
