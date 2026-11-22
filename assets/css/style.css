@@ -424,3 +424,23 @@ caption { text-align: left; font-size: 13px; color: var(--text-dim); padding-bot
 .promo-label { display: block; margin-top: 4px; font-size: 11px; color: var(--text-dim); text-align: right; }
 .lead + .promo { margin-top: 0; }
 @media (min-width: 780px) { .lead + .promo { margin-left: auto; margin-right: auto; } }
+
+/* Оценка статьи и «Поделиться» (вставляет scripts/add-engage.py, логика — /assets/js/engage.js) */
+.engage { margin: 34px 0 0; padding: 18px 20px; display: grid; gap: 18px; background: var(--bg-soft); border: 1px solid var(--line); border-radius: var(--radius); }
+@media (min-width: 720px) { .engage { grid-template-columns: auto 1fr; gap: 32px; align-items: start; } }
+.engage-title { font: 700 13px/1.3 var(--font); letter-spacing: 0.08em; text-transform: uppercase; color: var(--text-dim); margin: 0 0 10px; }
+.rate-stars { display: flex; gap: 2px; }
+.rate-star { padding: 0 2px; border: 0; background: none; cursor: pointer; font-size: 30px; line-height: 1; color: var(--line); transition: color .12s, transform .12s; }
+.rate-star.is-on, .rate-stars:hover .rate-star { color: #f2b01e; }
+.rate-stars:hover .rate-star:hover ~ .rate-star { color: var(--line); }
+.rate-star:hover { transform: scale(1.12); }
+.rate-star:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; border-radius: 4px; }
+.rate-msg { margin: 6px 0 0; min-height: 1.4em; font-size: 14px; color: var(--text-dim); }
+.share-links { display: flex; flex-wrap: wrap; gap: 8px; }
+.share-btn { display: inline-block; padding: 7px 14px; border: 1px solid var(--line); border-radius: 999px; background: var(--bg-card); color: var(--text); font: 600 14px/1.2 var(--font); cursor: pointer; }
+.share-btn:hover { border-color: var(--accent); color: var(--accent); }
+.share-btn--tg:hover { border-color: #229ed9; color: #229ed9; }
+.share-btn--vk:hover { border-color: #0077ff; color: #0077ff; }
+.share-btn--wa:hover { border-color: #25d366; color: #1da851; }
+.share-btn--ok:hover { border-color: #ee8208; color: #ee8208; }
+.share-btn[hidden], .rate[hidden] { display: none; }
