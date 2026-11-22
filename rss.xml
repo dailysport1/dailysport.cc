@@ -6,7 +6,37 @@
     <description>Новости, разборы и факты о футболе и ММА с проверенными источниками.</description>
     <language>ru</language>
     <atom:link href="https://dailysport.cc/rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sun, 15 Nov 2026 14:57:56 +0300</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 14:16:06 +0300</lastBuildDate>
+    <item>
+      <title>Самые дорогие трансферы 2026 года: топ-10 и методология</title>
+      <link>https://dailysport.cc/around/samye-dorogie-transfery-2026/</link>
+      <guid isPermaLink="true">https://dailysport.cc/around/samye-dorogie-transfery-2026/</guid>
+      <pubDate>Sun, 22 Nov 2026 20:00:00 +0300</pubDate>
+      <category>around</category>
+      <dc:creator>Юрий Лютиков</dc:creator>
+      <description>Энзо Фернандес за €145 млн, рекорд для британца Роджерс и €1,14 млрд в топ-10: сводный рейтинг лета-2026 и почему списки расходятся.</description>
+      <media:content url="https://dailysport.cc/assets/img/samye-dorogie-transfery.jpg" medium="image"/>
+    </item>
+    <item>
+      <title>Матвей Сафонов: статистика, зарплата в ПСЖ и алименты</title>
+      <link>https://dailysport.cc/football/matvei-safonov/</link>
+      <guid isPermaLink="true">https://dailysport.cc/football/matvei-safonov/</guid>
+      <pubDate>Sun, 22 Nov 2026 19:00:00 +0300</pubDate>
+      <category>football</category>
+      <dc:creator>Юрий Лютиков</dc:creator>
+      <description>Первый номер ПСЖ: цифры сезона 2026/27, четыре пенальти со сломанной рукой, оценки зарплаты и что решил Конституционный суд по алиментам.</description>
+      <media:content url="https://dailysport.cc/assets/img/matvei-safonov.jpg" medium="image"/>
+    </item>
+    <item>
+      <title>Сирил Ган: рекорд 15-2, титул UFC и следующий бой</title>
+      <link>https://dailysport.cc/mma/ciryl-gane/</link>
+      <guid isPermaLink="true">https://dailysport.cc/mma/ciryl-gane/</guid>
+      <pubDate>Sun, 22 Nov 2026 18:00:00 +0300</pubDate>
+      <category>mma</category>
+      <dc:creator>Юрий Лютиков</dc:creator>
+      <description>Все бои Сирила Гана в UFC, защита титула над Хокитом на UFC 334, оценки гонораров, роли в кино и кого UFC поставит следующим.</description>
+      <media:content url="https://dailysport.cc/assets/img/ciryl-gane.jpg" medium="image"/>
+    </item>
     <item>
       <title>Мераб Двалишвили: рекорд 21-6, все бои в UFC и что дальше после Абу-Даби</title>
       <link>https://dailysport.cc/mma/merab-dvalishvili/</link>
@@ -276,36 +306,6 @@
       <dc:creator>Юрий Лютиков</dc:creator>
       <description>РПЛ 10-й тур 9–11 октября: «Зенит» обыграл «Краснодар» 3:2 и догнал лидера по очкам. Время всех 8 матчей по городам СНГ и таблица перед туром.</description>
       <media:content url="https://dailysport.cc/assets/img/krasnodar-zenit-rpl-10-tur.jpg" medium="image"/>
-    </item>
-    <item>
-      <title>Россия — Нигерия 6 октября: итог 3:3 в Нижнем Новгороде, состав, трансляция и Осимхен</title>
-      <link>https://dailysport.cc/football/rossiya-nigeriya-6-oktyabrya-vo-skolko-gde-smotret-sostav/</link>
-      <guid isPermaLink="true">https://dailysport.cc/football/rossiya-nigeriya-6-oktyabrya-vo-skolko-gde-smotret-sostav/</guid>
-      <pubDate>Fri, 25 Sep 2026 21:00:00 +0300</pubDate>
-      <category>football</category>
-      <dc:creator>Юрий Лютиков</dc:creator>
-      <description>Россия — Нигерия 6 октября 2026 в Нижнем Новгороде — 3:3: Россия вела 3:1 и пропустила на 90+4-й. Время по МСК и Алматы, Первый канал и Okko, состав.</description>
-      <media:content url="https://dailysport.cc/assets/img/og/osimhen-nigeria-rossiya.jpg" medium="image"/>
-    </item>
-    <item>
-      <title>Валентина Шевченко: почему освободила титул UFC, рекорд и когда следующий бой</title>
-      <link>https://dailysport.cc/mma/valentina-shevchenko/</link>
-      <guid isPermaLink="true">https://dailysport.cc/mma/valentina-shevchenko/</guid>
-      <pubDate>Fri, 25 Sep 2026 20:30:00 +0300</pubDate>
-      <category>mma</category>
-      <dc:creator>Юрий Лютиков</dc:creator>
-      <description>Валентина Шевченко освободила титул UFC из-за надрыва связок плеча и пропустит около года. Рекорд 26-4-1, девять защит, новая чемпионка — Силва.</description>
-      <media:content url="https://dailysport.cc/assets/img/og/valentina-shevchenko.jpg" medium="image"/>
-    </item>
-    <item>
-      <title>UFC 332: итоги — Наталия Силва чемпионка, нокауты Копылова и Тэлботта, полный кард</title>
-      <link>https://dailysport.cc/mma/ufc-332-vo-skolko-msk-kard-silva-van-cun-kopylov/</link>
-      <guid isPermaLink="true">https://dailysport.cc/mma/ufc-332-vo-skolko-msk-kard-silva-van-cun-kopylov/</guid>
-      <pubDate>Fri, 25 Sep 2026 20:00:00 +0300</pubDate>
-      <category>mma</category>
-      <dc:creator>Юрий Лютиков</dc:creator>
-      <description>UFC 332: Наталия Силва взяла вакантный пояс решением у Ван Цун (48-47, 48-47, 49-46), Копылов нокаутировал Готье, Тэлботт — Фигередо. Кард и время по МСК.</description>
-      <media:content url="https://dailysport.cc/assets/img/og/figueiredo-ufc-332.jpg" medium="image"/>
     </item>
   </channel>
 </rss>
